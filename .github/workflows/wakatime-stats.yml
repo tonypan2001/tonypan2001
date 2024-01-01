@@ -1,9 +1,9 @@
-name: WakaTime status update
+name: Wakatime Stats
 
 on:
   schedule:
     # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: "1 0 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme:
@@ -25,3 +25,6 @@ jobs:
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
           # Range of fetching data - default is "last_7_days". See https://wakatime.com/developers#stats for more options
           STATS_RANGE: "last_7_days"
+          TABLE_STYLE: 'default' # (optional) can be 'default','box' or 'box-double'
+          MAX_LANGUAGES: '5' # (optional) any number > 5, if under 5, this will be set to 5
+          WAKATIME_TIME_RANGE: 'all_time' # (optional) can be 'last_7_days', 'last_30_days', 'last_6_months' or 'last_year'
