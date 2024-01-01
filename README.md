@@ -19,4 +19,4 @@ A Computer Science student at Kasetsart University. And I'm very facinasted in w
 
 <a href="https://github.com/tonypan2001" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonypan2001&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<figure><embed src="https://wakatime.com/share/@018b5a3b-c534-40b7-8a66-19e26e029383/363b4068-47d1-4390-85a4-d89c2661d19f.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@018b5a3b-c534-40b7-8a66-19e26e029383/b8080646-97bd-4bfc-86a8-6c3f0c46cf9f.png" /></a>
