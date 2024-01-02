@@ -15,4 +15,20 @@ A Computer Science student at Kasetsart University. And I'm very facinasted in w
                     </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 22 October 2023 - To: 31 December 2023
+
+Vue.js       30 hrs 45 mins  ████████████░░░░░░░░░░░░░   47.56 %
+TypeScript   15 hrs 39 mins  ██████░░░░░░░░░░░░░░░░░░░   24.21 %
+JavaScript   9 hrs 25 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+C#           2 hrs 54 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
+CSS          1 hr 59 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+PHP          1 hr 37 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+Bash         1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+Text         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+HTML         20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+JSON         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+```
+
 <!--END_SECTION:waka-->
