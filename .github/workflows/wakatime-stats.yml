@@ -9,12 +9,14 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: Update the WakaTime Stat
     runs-on: ubuntu-latest
     steps:
       - uses: avinal/Profile-Readme-WakaTime@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          BRANCH: "main"
+          COMMIT_MSG: "Automated Coding Activity Update :alien:"
           SHOW_TITLE: true # optional
           SECTION_NAME: waka # optional
           TIME_RANGE: all_time # optional
