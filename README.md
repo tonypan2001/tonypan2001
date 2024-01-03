@@ -19,4 +19,4 @@ A Computer Science student at Kasetsart University. And I'm very facinasted in w
 
 [![wakatime](https://wakatime.com/badge/user/018b5a3b-c534-40b7-8a66-19e26e029383.svg)](https://wakatime.com/@018b5a3b-c534-40b7-8a66-19e26e029383)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonypan2001&layout=compact&langs_count=16&hide_border=false&custom_title=MyStats&bg_color=0d1117)](https://wakatime.com/@tonypan2001)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonypan2001&layout=compact&langs_count=16&color=fff&custom_title=MyStats&bg_color=0d1117)](https://wakatime.com/@tonypan2001)
