@@ -15,6 +15,7 @@ jobs:
       - uses: avinal/Profile-Readme-WakaTime@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ github.token }}
           BRANCH: "main"
           COMMIT_MSG: "Automated Coding Activity Update :alien:"
           SHOW_TITLE: true # optional
