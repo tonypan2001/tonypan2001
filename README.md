@@ -16,4 +16,4 @@ A Computer Science student at Kasetsart University. And I'm very facinasted in w
 
 ### Waka stats
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonypan2001)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonypan2001)](https://github.com/tonypan2001/github-readme-stats)
