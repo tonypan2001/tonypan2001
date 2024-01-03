@@ -16,7 +16,4 @@ A Computer Science student at Kasetsart University. And I'm very facinasted in w
 
 ### Waka stats
 
-<img
-  src="https://github.com/tonypan2001/tonypan2001/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonypan2001)](https://github.com/anuraghazra/github-readme-stats)
