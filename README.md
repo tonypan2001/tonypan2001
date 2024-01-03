@@ -15,5 +15,5 @@ A Computer Science student at Kasetsart University. And I'm very facinasted in w
                     </p>
 
 ### Waka stats
-
+[![wakatime](https://wakatime.com/badge/user/018b5a3b-c534-40b7-8a66-19e26e029383.svg)](https://wakatime.com/@018b5a3b-c534-40b7-8a66-19e26e029383)
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tonypan2001&layout=compact&langs_count=16&hide_border=true&custom_title=Prompan's_Stat&bg_color=000)](https://wakatime.com/@tonypan2001)
