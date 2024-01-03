@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-A Computer Science student at Kasetsart University. And I'm very facinasted in web development, graphic design and games.
+a Kasetsart University student studying computer science. Additionally, I have a strong interest in graphic design, games, and web development.
 
 *   🌍  I'm based in Bangkok, Thailand
 *   ✉️  You can contact me at [prompan.ue@gmail.com](mailto:prompan.ue@gmail.com)
