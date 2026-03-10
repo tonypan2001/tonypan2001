@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-a Kasetsart University student studying computer science. Additionally, I have a strong interest in graphic design, games, and web development.
+Detail-oriented Frontend Developer with a proven track record in developing scalable web architectures and user-centric interfaces. Expertise in Next.js, Typescript and Tailwind CSS. Skilled in translating Figma designs into pixel-perfect, responsive reality, while leveraging AI Tools and Agile platforms (Jira/Slack) to optimize development. Passionate about creating impactful tech solutions for both public and private sectors.
 
 *   🌍  I'm based in Bangkok, Thailand
 *   ✉️  You can contact me at [prompan.ue@gmail.com](mailto:prompan.ue@gmail.com)
